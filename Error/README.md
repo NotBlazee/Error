@@ -1,6 +1,6 @@
 **This chatbot was created by BlaZe#5895**
 _To set up your bot please head to .env and make a variable named TOKEN and add your tokrn there!
-**This bot is fully customisable join https://discord.gg/8HKHXbz for support and other questions**
+**This bot is fully customisable join https://discord.gg/hmegDts for support and other questions**
 
 
 **NOTE
