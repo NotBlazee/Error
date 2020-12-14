@@ -1,4 +1,4 @@
-# Error
+# Error_
 **Speak to an AI with some Actual Intelligence? A chatbot that uses Alexa's API, unlimited responses, contextual and actual intelligence...**
 
 **This chatbot was created by NotBlaze#5895** _To set up your bot please head to .env and make a variable named TOKEN and add your tokrn there! This bot is fully customisable join https://discord.gg/hmegDts for support and other questions._
